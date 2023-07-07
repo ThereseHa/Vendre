@@ -1,4 +1,5 @@
 # vendre
+Här är min koduppgift för praktik hos Vendre!!
 
 ## Project setup
 ```
